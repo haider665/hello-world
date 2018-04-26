@@ -9,3 +9,5 @@ jsp
 
 hibernate
 spring
+
+Multiple projects
